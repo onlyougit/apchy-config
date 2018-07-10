@@ -1,3 +1,5 @@
 product:
   image:
     path: product/image/test/
+global:
+  test: 全局测试
